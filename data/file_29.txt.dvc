@@ -1,0 +1,14 @@
+outs:
+- md5: 22cab69bca05d296a2d779a52cdee643
+  size: 3
+  path: file_29.txt
+meta:
+  hkube:
+    id: ser-3v7n
+    name: file_29.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+    uploadedAt: 1615808016542
+    hash: 22cab69bca05d296a2d779a52cdee643

@@ -1,0 +1,13 @@
+outs:
+- md5: 93e50d72ab294091a81d828459019eba
+  size: 3
+  path: file_45.txt
+meta:
+  hkube:
+    id: ser-h1w0
+    name: file_45.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: 93e50d72ab294091a81d828459019eba

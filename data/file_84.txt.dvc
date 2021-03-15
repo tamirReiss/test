@@ -1,0 +1,13 @@
+outs:
+- md5: 091b847d9660c0555bc6f29994a03710
+  size: 3
+  path: file_84.txt
+meta:
+  hkube:
+    id: ser-zznb
+    name: file_84.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016544
+    hash: 091b847d9660c0555bc6f29994a03710

@@ -1,0 +1,13 @@
+outs:
+- md5: 80ad60f95c32a3f6e413b5bb7c094e99
+  size: 3
+  path: file_91.txt
+meta:
+  hkube:
+    id: ser-p65x
+    name: file_91.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016545
+    hash: 80ad60f95c32a3f6e413b5bb7c094e99

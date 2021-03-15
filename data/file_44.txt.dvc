@@ -1,0 +1,13 @@
+outs:
+- md5: e760668b6273d38c832c153fde5725da
+  size: 3
+  path: file_44.txt
+meta:
+  hkube:
+    id: ser-e0y6
+    name: file_44.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: e760668b6273d38c832c153fde5725da

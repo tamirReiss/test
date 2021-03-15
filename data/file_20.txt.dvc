@@ -1,0 +1,14 @@
+outs:
+- md5: dbbf8220893d497d403bb9cdf49db7a4
+  size: 3
+  path: file_20.txt
+meta:
+  hkube:
+    id: ser-wu9r
+    name: file_20.txt
+    size: 3
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1615808016541
+    hash: dbbf8220893d497d403bb9cdf49db7a4

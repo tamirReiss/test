@@ -1,0 +1,13 @@
+outs:
+- md5: 8faff61bc1198cc6bdc19adafc27fc82
+  size: 3
+  path: file_72.txt
+meta:
+  hkube:
+    id: ser-ic63
+    name: file_72.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016544
+    hash: 8faff61bc1198cc6bdc19adafc27fc82

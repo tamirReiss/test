@@ -1,0 +1,14 @@
+outs:
+- md5: 367764329430db34be92fd14a7a770ee
+  size: 3
+  path: file_14.txt
+meta:
+  hkube:
+    id: ser-ganv
+    name: file_14.txt
+    size: 3
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1615808016541
+    hash: 367764329430db34be92fd14a7a770ee

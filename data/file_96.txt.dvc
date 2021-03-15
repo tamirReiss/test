@@ -1,0 +1,13 @@
+outs:
+- md5: 27e4d3594a232b37951be232588fd3a9
+  size: 3
+  path: file_96.txt
+meta:
+  hkube:
+    id: ser-zrfs
+    name: file_96.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016545
+    hash: 27e4d3594a232b37951be232588fd3a9

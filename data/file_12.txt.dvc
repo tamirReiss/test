@@ -1,0 +1,14 @@
+outs:
+- md5: 2737b49252e2a4c0fe4c342e92b13285
+  size: 3
+  path: file_12.txt
+meta:
+  hkube:
+    id: ser-m8tg
+    name: file_12.txt
+    size: 3
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1615808016541
+    hash: 2737b49252e2a4c0fe4c342e92b13285

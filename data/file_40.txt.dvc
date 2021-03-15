@@ -1,0 +1,14 @@
+outs:
+- md5: 90e2a51705594d033a3abe9d77b2b7ad
+  size: 3
+  path: file_40.txt
+meta:
+  hkube:
+    id: ser-zjcq
+    name: file_40.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+    uploadedAt: 1615808016542
+    hash: 90e2a51705594d033a3abe9d77b2b7ad

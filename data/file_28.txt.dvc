@@ -1,0 +1,14 @@
+outs:
+- md5: 51a6d96331d5eaa300358c7a0faf168d
+  size: 3
+  path: file_28.txt
+meta:
+  hkube:
+    id: ser-ps2n
+    name: file_28.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+    uploadedAt: 1615808016541
+    hash: 51a6d96331d5eaa300358c7a0faf168d

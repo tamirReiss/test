@@ -1,0 +1,13 @@
+outs:
+- md5: 08c61f3fd48f12fa7c88a7f5fd01df3d
+  size: 3
+  path: file_48.txt
+meta:
+  hkube:
+    id: ser-hp10
+    name: file_48.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: 08c61f3fd48f12fa7c88a7f5fd01df3d

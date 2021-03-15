@@ -1,0 +1,13 @@
+outs:
+- md5: 9a01df2f09a7bf076c00132b12811665
+  size: 3
+  path: file_62.txt
+meta:
+  hkube:
+    id: ser-g4o8
+    name: file_62.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: 9a01df2f09a7bf076c00132b12811665

@@ -1,0 +1,13 @@
+outs:
+- md5: c92841e00dbfeb12a0ce7fb3ffbd1fcb
+  size: 3
+  path: file_53.txt
+meta:
+  hkube:
+    id: ser-ifp0
+    name: file_53.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: c92841e00dbfeb12a0ce7fb3ffbd1fcb

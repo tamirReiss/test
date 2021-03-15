@@ -1,0 +1,14 @@
+outs:
+- md5: b0771132ab2531a40c9941375ed8e290
+  size: 3
+  path: file_26.txt
+meta:
+  hkube:
+    id: ser-1gp6
+    name: file_26.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+    uploadedAt: 1615808016541
+    hash: b0771132ab2531a40c9941375ed8e290

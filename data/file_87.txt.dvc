@@ -1,0 +1,13 @@
+outs:
+- md5: 071867626474acbe0af380ca62c1e98f
+  size: 3
+  path: file_87.txt
+meta:
+  hkube:
+    id: ser-9k1t
+    name: file_87.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016544
+    hash: 071867626474acbe0af380ca62c1e98f

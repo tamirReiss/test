@@ -1,0 +1,13 @@
+outs:
+- md5: 4b1709eb0990e993c3125c159133d0fe
+  size: 3
+  path: file_89.txt
+meta:
+  hkube:
+    id: ser-2fi6
+    name: file_89.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016545
+    hash: 4b1709eb0990e993c3125c159133d0fe

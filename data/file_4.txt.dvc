@@ -1,0 +1,14 @@
+outs:
+- md5: 48a24b70a0b376535542b996af517398
+  size: 2
+  path: file_4.txt
+meta:
+  hkube:
+    id: ser-kb4x
+    name: file_4.txt
+    size: 2
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1615808016541
+    hash: 48a24b70a0b376535542b996af517398

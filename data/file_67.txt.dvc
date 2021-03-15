@@ -1,0 +1,13 @@
+outs:
+- md5: b21dfa3feab817c3640bbb984346cdf1
+  size: 3
+  path: file_67.txt
+meta:
+  hkube:
+    id: ser-unxi
+    name: file_67.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: b21dfa3feab817c3640bbb984346cdf1

@@ -1,0 +1,14 @@
+outs:
+- md5: 2a52a5e65fc3c43f409550dfad1f904f
+  size: 3
+  path: file_25.txt
+meta:
+  hkube:
+    id: ser-iucj
+    name: file_25.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+    uploadedAt: 1615808016541
+    hash: 2a52a5e65fc3c43f409550dfad1f904f

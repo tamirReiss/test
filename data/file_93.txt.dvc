@@ -1,0 +1,13 @@
+outs:
+- md5: 3368d7171580c61644211e59574674ba
+  size: 3
+  path: file_93.txt
+meta:
+  hkube:
+    id: ser-erfd
+    name: file_93.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016545
+    hash: 3368d7171580c61644211e59574674ba

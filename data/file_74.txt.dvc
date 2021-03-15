@@ -1,0 +1,13 @@
+outs:
+- md5: 1ff1f1079687389af8322c6035ce3ba5
+  size: 3
+  path: file_74.txt
+meta:
+  hkube:
+    id: ser-5qyw
+    name: file_74.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016544
+    hash: 1ff1f1079687389af8322c6035ce3ba5

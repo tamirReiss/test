@@ -1,0 +1,13 @@
+outs:
+- md5: d26e597a24e9190afa579226d552f5d3
+  size: 3
+  path: file_63.txt
+meta:
+  hkube:
+    id: ser-ptyr
+    name: file_63.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: d26e597a24e9190afa579226d552f5d3

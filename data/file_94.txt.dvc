@@ -1,0 +1,13 @@
+outs:
+- md5: c1cc2eeb27a86f85032b210ff5ef5d02
+  size: 3
+  path: file_94.txt
+meta:
+  hkube:
+    id: ser-tutp
+    name: file_94.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016545
+    hash: c1cc2eeb27a86f85032b210ff5ef5d02

@@ -1,0 +1,14 @@
+outs:
+- md5: 7c5aba41f53293b712fd86d08ed5b36e
+  size: 2
+  path: file_9.txt
+meta:
+  hkube:
+    id: ser-gjeh
+    name: file_9.txt
+    size: 2
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1615808016541
+    hash: 7c5aba41f53293b712fd86d08ed5b36e

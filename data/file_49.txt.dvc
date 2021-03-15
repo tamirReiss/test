@@ -1,0 +1,13 @@
+outs:
+- md5: a75f5a8337c6699916182b6f7c10d7a9
+  size: 3
+  path: file_49.txt
+meta:
+  hkube:
+    id: ser-ilrp
+    name: file_49.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: a75f5a8337c6699916182b6f7c10d7a9

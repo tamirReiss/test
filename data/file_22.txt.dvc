@@ -1,0 +1,14 @@
+outs:
+- md5: 2fc57d6f63a9ee7e2f21a26fa522e3b6
+  size: 3
+  path: file_22.txt
+meta:
+  hkube:
+    id: ser-l96h
+    name: file_22.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+    uploadedAt: 1615808016541
+    hash: 2fc57d6f63a9ee7e2f21a26fa522e3b6

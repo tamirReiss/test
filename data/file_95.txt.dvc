@@ -1,0 +1,13 @@
+outs:
+- md5: 9672a5e9c09fb71edf287ea3057f9148
+  size: 3
+  path: file_95.txt
+meta:
+  hkube:
+    id: ser-e1q2
+    name: file_95.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016545
+    hash: 9672a5e9c09fb71edf287ea3057f9148

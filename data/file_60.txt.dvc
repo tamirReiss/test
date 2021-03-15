@@ -1,0 +1,13 @@
+outs:
+- md5: ecf27a776cdfc771defab1c5d19de9ab
+  size: 3
+  path: file_60.txt
+meta:
+  hkube:
+    id: ser-e7hw
+    name: file_60.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: ecf27a776cdfc771defab1c5d19de9ab

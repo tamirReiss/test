@@ -1,0 +1,14 @@
+outs:
+- md5: 26ab0db90d72e28ad0ba1e22ee510510
+  size: 2
+  path: file_2.txt
+meta:
+  hkube:
+    id: ser-37ob
+    name: file_2.txt
+    size: 2
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1615808016540
+    hash: 26ab0db90d72e28ad0ba1e22ee510510

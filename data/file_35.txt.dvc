@@ -1,0 +1,14 @@
+outs:
+- md5: 649ee93d50739c656e94ec88a32c7ffe
+  size: 3
+  path: file_35.txt
+meta:
+  hkube:
+    id: ser-o6yc
+    name: file_35.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+    uploadedAt: 1615808016542
+    hash: 649ee93d50739c656e94ec88a32c7ffe

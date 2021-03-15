@@ -1,0 +1,13 @@
+outs:
+- md5: b68495714b0e1cad8ebaa1599766a942
+  size: 3
+  path: file_99.txt
+meta:
+  hkube:
+    id: ser-18f3
+    name: file_99.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016545
+    hash: b68495714b0e1cad8ebaa1599766a942

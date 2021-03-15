@@ -1,0 +1,13 @@
+outs:
+- md5: cea4eca650d71bd9d552b4cf38e05702
+  size: 3
+  path: file_80.txt
+meta:
+  hkube:
+    id: ser-key2
+    name: file_80.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016544
+    hash: cea4eca650d71bd9d552b4cf38e05702

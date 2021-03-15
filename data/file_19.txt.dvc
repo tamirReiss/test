@@ -1,0 +1,14 @@
+outs:
+- md5: 3bb50ff8eeb7ad116724b56a820139fa
+  size: 3
+  path: file_19.txt
+meta:
+  hkube:
+    id: ser-gnp7
+    name: file_19.txt
+    size: 3
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1615808016541
+    hash: 3bb50ff8eeb7ad116724b56a820139fa

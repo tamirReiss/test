@@ -1,0 +1,13 @@
+outs:
+- md5: 721327bfc0e276a871561a42ac89a490
+  size: 3
+  path: file_71.txt
+meta:
+  hkube:
+    id: ser-8wqx
+    name: file_71.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016544
+    hash: 721327bfc0e276a871561a42ac89a490

@@ -1,0 +1,13 @@
+outs:
+- md5: 37a9aea1be8915f4998443873ec90db0
+  size: 3
+  path: file_81.txt
+meta:
+  hkube:
+    id: ser-wv11
+    name: file_81.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016544
+    hash: 37a9aea1be8915f4998443873ec90db0

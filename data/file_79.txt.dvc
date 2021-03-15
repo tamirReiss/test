@@ -1,0 +1,13 @@
+outs:
+- md5: 54a24082cfebcd031ae7d0275379511e
+  size: 3
+  path: file_79.txt
+meta:
+  hkube:
+    id: ser-j8re
+    name: file_79.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016544
+    hash: 54a24082cfebcd031ae7d0275379511e

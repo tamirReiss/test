@@ -1,0 +1,13 @@
+outs:
+- md5: 9caff0735bc6e80121cedcb98ca51821
+  size: 3
+  path: file_64.txt
+meta:
+  hkube:
+    id: ser-nwq7
+    name: file_64.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: 9caff0735bc6e80121cedcb98ca51821

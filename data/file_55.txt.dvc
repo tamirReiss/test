@@ -1,0 +1,13 @@
+outs:
+- md5: 8d7e35631f830f2c5b9685450a2b8568
+  size: 3
+  path: file_55.txt
+meta:
+  hkube:
+    id: ser-0wm4
+    name: file_55.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: 8d7e35631f830f2c5b9685450a2b8568

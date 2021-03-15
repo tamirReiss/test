@@ -1,0 +1,13 @@
+outs:
+- md5: 4a5c26d88c514a23bf15654abd83adb1
+  size: 3
+  path: file_47.txt
+meta:
+  hkube:
+    id: ser-or0n
+    name: file_47.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: 4a5c26d88c514a23bf15654abd83adb1

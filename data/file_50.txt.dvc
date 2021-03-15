@@ -1,0 +1,13 @@
+outs:
+- md5: 6eb5cefde6fcb8463cea70880a44eb98
+  size: 3
+  path: file_50.txt
+meta:
+  hkube:
+    id: ser-q3h7
+    name: file_50.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: 6eb5cefde6fcb8463cea70880a44eb98

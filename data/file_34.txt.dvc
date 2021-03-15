@@ -1,0 +1,14 @@
+outs:
+- md5: fd1bc138d22d4f78150c6e808345c2cc
+  size: 3
+  path: file_34.txt
+meta:
+  hkube:
+    id: ser-4wbp
+    name: file_34.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+    uploadedAt: 1615808016542
+    hash: fd1bc138d22d4f78150c6e808345c2cc

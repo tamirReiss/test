@@ -1,0 +1,13 @@
+outs:
+- md5: 60f3db995d0676b576372c0ee45b7ac0
+  size: 3
+  path: file_83.txt
+meta:
+  hkube:
+    id: ser-ef9j
+    name: file_83.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016544
+    hash: 60f3db995d0676b576372c0ee45b7ac0

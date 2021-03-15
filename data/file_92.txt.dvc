@@ -1,0 +1,13 @@
+outs:
+- md5: ed31ca2c02fe2af071ee0089ab43f64f
+  size: 3
+  path: file_92.txt
+meta:
+  hkube:
+    id: ser-j0j8
+    name: file_92.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016545
+    hash: ed31ca2c02fe2af071ee0089ab43f64f

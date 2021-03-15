@@ -1,0 +1,13 @@
+outs:
+- md5: d02a55da8edcc7ec95a59ce5c8a93f5b
+  size: 3
+  path: file_85.txt
+meta:
+  hkube:
+    id: ser-zwhc
+    name: file_85.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016544
+    hash: d02a55da8edcc7ec95a59ce5c8a93f5b

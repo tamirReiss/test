@@ -1,0 +1,13 @@
+outs:
+- md5: d3a57c7e953913944c76009357469568
+  size: 3
+  path: file_46.txt
+meta:
+  hkube:
+    id: ser-y7fk
+    name: file_46.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: d3a57c7e953913944c76009357469568

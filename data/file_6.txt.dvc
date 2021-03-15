@@ -1,0 +1,14 @@
+outs:
+- md5: 9ae0ea9e3c9c6e1b9b6252c8395efdc1
+  size: 2
+  path: file_6.txt
+meta:
+  hkube:
+    id: ser-jwn4
+    name: file_6.txt
+    size: 2
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1615808016541
+    hash: 9ae0ea9e3c9c6e1b9b6252c8395efdc1

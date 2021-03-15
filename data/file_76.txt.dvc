@@ -1,0 +1,13 @@
+outs:
+- md5: 1709106f7c5dbb0539104f4ea3c17a7d
+  size: 3
+  path: file_76.txt
+meta:
+  hkube:
+    id: ser-onoi
+    name: file_76.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016544
+    hash: 1709106f7c5dbb0539104f4ea3c17a7d

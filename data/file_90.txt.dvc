@@ -1,0 +1,13 @@
+outs:
+- md5: 1b28e946f4a8ffd5bdf939779c420986
+  size: 3
+  path: file_90.txt
+meta:
+  hkube:
+    id: ser-6ygb
+    name: file_90.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016545
+    hash: 1b28e946f4a8ffd5bdf939779c420986

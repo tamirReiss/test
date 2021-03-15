@@ -1,0 +1,14 @@
+outs:
+- md5: 31d30eea8d0968d6458e0ad0027c9f80
+  size: 3
+  path: file_10.txt
+meta:
+  hkube:
+    id: ser-xga9
+    name: file_10.txt
+    size: 3
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1615808016541
+    hash: 31d30eea8d0968d6458e0ad0027c9f80

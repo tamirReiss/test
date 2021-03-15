@@ -1,0 +1,13 @@
+outs:
+- md5: 6ae2481905403d48e262774919e04927
+  size: 3
+  path: file_59.txt
+meta:
+  hkube:
+    id: ser-8vld
+    name: file_59.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: 6ae2481905403d48e262774919e04927

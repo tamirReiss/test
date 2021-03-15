@@ -1,0 +1,14 @@
+outs:
+- md5: fe9d26c3e620eeb69bd166c8be89fb8f
+  size: 3
+  path: file_21.txt
+meta:
+  hkube:
+    id: ser-u6zv
+    name: file_21.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+    uploadedAt: 1615808016541
+    hash: fe9d26c3e620eeb69bd166c8be89fb8f

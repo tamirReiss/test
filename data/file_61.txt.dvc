@@ -1,0 +1,13 @@
+outs:
+- md5: 1153ebfe1f32d9046be1105829c9a0b2
+  size: 3
+  path: file_61.txt
+meta:
+  hkube:
+    id: ser-tpl6
+    name: file_61.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: 1153ebfe1f32d9046be1105829c9a0b2

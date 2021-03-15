@@ -1,0 +1,13 @@
+outs:
+- md5: 1aa55984651b2dc16275a24d7d5d81b7
+  size: 3
+  path: file_51.txt
+meta:
+  hkube:
+    id: ser-ix6e
+    name: file_51.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: 1aa55984651b2dc16275a24d7d5d81b7

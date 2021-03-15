@@ -1,0 +1,14 @@
+outs:
+- md5: 6d7fce9fee471194aa8b5b6e47267f03
+  size: 2
+  path: file_3.txt
+meta:
+  hkube:
+    id: ser-rg9i
+    name: file_3.txt
+    size: 2
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1615808016541
+    hash: 6d7fce9fee471194aa8b5b6e47267f03

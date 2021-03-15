@@ -1,0 +1,13 @@
+outs:
+- md5: 73b4c20e598d6b495de7515ad4ea2fdc
+  size: 3
+  path: file_66.txt
+meta:
+  hkube:
+    id: ser-rso1
+    name: file_66.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: 73b4c20e598d6b495de7515ad4ea2fdc

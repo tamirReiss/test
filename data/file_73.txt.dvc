@@ -1,0 +1,13 @@
+outs:
+- md5: f634226ee88c06e2e8fa603ab5308b97
+  size: 3
+  path: file_73.txt
+meta:
+  hkube:
+    id: ser-d1yn
+    name: file_73.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016544
+    hash: f634226ee88c06e2e8fa603ab5308b97

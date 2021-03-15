@@ -1,0 +1,13 @@
+outs:
+- md5: 2b44a59db15a3ee2f1605ac82b028b20
+  size: 3
+  path: file_77.txt
+meta:
+  hkube:
+    id: ser-r6rd
+    name: file_77.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016544
+    hash: 2b44a59db15a3ee2f1605ac82b028b20

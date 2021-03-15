@@ -1,0 +1,14 @@
+outs:
+- md5: fa84f696e31d07f55cd45cc3c9e52f3b
+  size: 3
+  path: file_36.txt
+meta:
+  hkube:
+    id: ser-b044
+    name: file_36.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+    uploadedAt: 1615808016542
+    hash: fa84f696e31d07f55cd45cc3c9e52f3b

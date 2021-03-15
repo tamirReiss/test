@@ -1,0 +1,13 @@
+outs:
+- md5: 9f4c0b1fca5cb6f886aa2e54442b1e1b
+  size: 3
+  path: file_75.txt
+meta:
+  hkube:
+    id: ser-0n5u
+    name: file_75.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016544
+    hash: 9f4c0b1fca5cb6f886aa2e54442b1e1b

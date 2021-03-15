@@ -1,0 +1,14 @@
+outs:
+- md5: 897316929176464ebc9ad085f31e7284
+  size: 2
+  path: file_0.txt
+meta:
+  hkube:
+    id: ser-55ec
+    name: file_0.txt
+    size: 2
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1615808016540
+    hash: 897316929176464ebc9ad085f31e7284

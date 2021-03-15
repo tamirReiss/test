@@ -1,0 +1,13 @@
+outs:
+- md5: a074c5929fb80888a09bc6fa0878b08d
+  size: 3
+  path: file_56.txt
+meta:
+  hkube:
+    id: ser-z2p9
+    name: file_56.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: a074c5929fb80888a09bc6fa0878b08d

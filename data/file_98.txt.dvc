@@ -1,0 +1,13 @@
+outs:
+- md5: 18be9375e5a753f766616a51eb6131f0
+  size: 3
+  path: file_98.txt
+meta:
+  hkube:
+    id: ser-rz1i
+    name: file_98.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016545
+    hash: 18be9375e5a753f766616a51eb6131f0

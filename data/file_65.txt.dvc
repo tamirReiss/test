@@ -1,0 +1,13 @@
+outs:
+- md5: 767abe6119a018446bcd7627ff8a4f2d
+  size: 3
+  path: file_65.txt
+meta:
+  hkube:
+    id: ser-dcvn
+    name: file_65.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: 767abe6119a018446bcd7627ff8a4f2d

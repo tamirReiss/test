@@ -1,0 +1,13 @@
+outs:
+- md5: f0810a231ce25a35e0b225652e9e54ed
+  size: 3
+  path: file_58.txt
+meta:
+  hkube:
+    id: ser-thvl
+    name: file_58.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: f0810a231ce25a35e0b225652e9e54ed

@@ -1,0 +1,13 @@
+outs:
+- md5: 597825570bae3f914642f26f98e9a810
+  size: 3
+  path: file_68.txt
+meta:
+  hkube:
+    id: ser-dsdk
+    name: file_68.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: 597825570bae3f914642f26f98e9a810

@@ -1,0 +1,13 @@
+outs:
+- md5: 105be3ebd0677ec739afd851a6d87fd5
+  size: 3
+  path: file_69.txt
+meta:
+  hkube:
+    id: ser-bkkf
+    name: file_69.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: 105be3ebd0677ec739afd851a6d87fd5

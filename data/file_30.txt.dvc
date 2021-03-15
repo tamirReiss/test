@@ -1,0 +1,14 @@
+outs:
+- md5: d5b4c7d9b06b60a7846c4529834c9812
+  size: 3
+  path: file_30.txt
+meta:
+  hkube:
+    id: ser-uisg
+    name: file_30.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+    uploadedAt: 1615808016542
+    hash: d5b4c7d9b06b60a7846c4529834c9812

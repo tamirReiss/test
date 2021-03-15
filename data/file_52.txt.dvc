@@ -1,0 +1,13 @@
+outs:
+- md5: 7efd8e828c42580d6b3a36336533b453
+  size: 3
+  path: file_52.txt
+meta:
+  hkube:
+    id: ser-198q
+    name: file_52.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: 7efd8e828c42580d6b3a36336533b453

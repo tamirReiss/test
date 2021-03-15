@@ -1,0 +1,14 @@
+outs:
+- md5: 7c67493bd72ceff21059c3d924d17518
+  size: 3
+  path: file_24.txt
+meta:
+  hkube:
+    id: ser-5ckd
+    name: file_24.txt
+    size: 3
+    type: text/plain
+    meta: |
+      from 20 to 40
+    uploadedAt: 1615808016541
+    hash: 7c67493bd72ceff21059c3d924d17518

@@ -1,0 +1,13 @@
+outs:
+- md5: 2d999528ef1dd9ae433698abf3fe7f43
+  size: 3
+  path: file_54.txt
+meta:
+  hkube:
+    id: ser-3uaj
+    name: file_54.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016543
+    hash: 2d999528ef1dd9ae433698abf3fe7f43

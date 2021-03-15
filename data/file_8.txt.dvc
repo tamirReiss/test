@@ -1,0 +1,14 @@
+outs:
+- md5: c30f7472766d25af1dc80b3ffc9a58c7
+  size: 2
+  path: file_8.txt
+meta:
+  hkube:
+    id: ser-6sih
+    name: file_8.txt
+    size: 2
+    type: text/plain
+    meta: |
+      first 20
+    uploadedAt: 1615808016541
+    hash: c30f7472766d25af1dc80b3ffc9a58c7

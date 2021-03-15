@@ -1,0 +1,13 @@
+outs:
+- md5: 46107b341ed115c03ac287f002c233f7
+  size: 3
+  path: file_78.txt
+meta:
+  hkube:
+    id: ser-0ofy
+    name: file_78.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016544
+    hash: 46107b341ed115c03ac287f002c233f7

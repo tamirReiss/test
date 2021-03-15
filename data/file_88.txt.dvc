@@ -1,0 +1,13 @@
+outs:
+- md5: 9e01624ab7743bcdbd8cb31681392cd5
+  size: 3
+  path: file_88.txt
+meta:
+  hkube:
+    id: ser-c4ec
+    name: file_88.txt
+    size: 3
+    type: text/plain
+    meta: ''
+    uploadedAt: 1615808016544
+    hash: 9e01624ab7743bcdbd8cb31681392cd5
